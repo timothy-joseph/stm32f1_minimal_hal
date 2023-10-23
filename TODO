@@ -1,0 +1,15 @@
+AFIO
+ADC
+internal temperature sensor
+DAC
+timers
+watch dog
+spi
+i2c
+i2s
+USART
+USB
+USB OTG
+CAN
+
+support for connectivity line devices
